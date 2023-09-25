@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashAndTree", "HashAndTree.csproj", "{EE5737E5-50E7-456F-8848-201B67D288AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5737E5-50E7-456F-8848-201B67D288AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5737E5-50E7-456F-8848-201B67D288AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5737E5-50E7-456F-8848-201B67D288AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5737E5-50E7-456F-8848-201B67D288AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD77DA6-7904-4F93-B119-8B9651E015FA}
+	EndGlobalSection
+EndGlobal
